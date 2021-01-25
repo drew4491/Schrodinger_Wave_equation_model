@@ -1,5 +1,5 @@
 # Shrodinger_Wave_equation_model
-This shows the 1D and 2D models of the Shrodinger Wave Equation. All the code files are explained at the bottom of the PDF.
+This shows the 1-D and 2-D models of the Shrodinger Wave Equation. All the code files are explained at the bottom of the PDF.
 
 ## Schrödinger Wave Equation
 
